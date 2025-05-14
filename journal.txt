@@ -2,6 +2,7 @@ print("This is my first commit")
 print("\nHello\nMy name is Kunal")
 print("This is my journal\n")
 
+print("This is my second commit")
 print("I like playing basketball")
 
 print("I have a dog")
