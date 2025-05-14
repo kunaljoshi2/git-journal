@@ -1,0 +1,2 @@
+print("\nHello\nMy name is Kunal")
+print("This is my journal\n")
