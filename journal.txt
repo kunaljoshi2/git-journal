@@ -2,3 +2,5 @@ print("\nHello\nMy name is Kunal")
 print("This is my journal\n")
 
 print("I like playing basketball")
+
+print("I have a dog")
