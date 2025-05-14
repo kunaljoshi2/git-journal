@@ -5,4 +5,5 @@ print("This is my journal\n")
 print("This is my second commit")
 print("I like playing basketball")
 
+print("This is my third commit")
 print("I have a dog")
